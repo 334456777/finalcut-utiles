@@ -1,0 +1,15 @@
+[submodule "gob2json"]
+	path = gob2json
+	url = https://github.com/334456777/gob2json.git
+[submodule "gsp"]
+	path = gsp
+	url = https://github.com/334456777/gsp.git
+[submodule "ime"]
+	path = ime
+	url = https://github.com/334456777/ime.git
+[submodule "srt2fcpxml"]
+	path = srt2fcpxml
+	url = https://github.com/334456777/srt2fcpxml.git
+[submodule "vcmp"]
+	path = vcmp
+	url = https://github.com/334456777/vcmp.git
